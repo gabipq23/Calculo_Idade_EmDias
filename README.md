@@ -7,8 +7,6 @@ Exercício 6
 
 Neste exercício, você deverá criar uma funcionalidade "Listar todos os cadastros" de um sistema de cadastro de dados pessoais conforme a descrição a seguir.
 
-Descrição das funcionalidades
-Listar todos os cadastros
 Além dos dados contidos no cadastro (ID, nome, CPF e data de nascimento), deve ser apresentada uma nova informação: a idade em dias da pessoa correspondente.
 
 A idade em dias calculada deve ser a real, ou seja, o nº exato de dias decorridos entre a data de nascimento da pessoa e a data em que o programa estiver sendo executado. 
